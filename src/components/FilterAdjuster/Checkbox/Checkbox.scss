@@ -1,0 +1,13 @@
+label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.6rem;
+  cursor: pointer;
+  input {
+    height: 20px;
+    width: 20px;
+    accent-color: transparent;
+    cursor: pointer;
+  }
+}

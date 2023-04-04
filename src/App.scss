@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100vh;
+  font-size: 10px;
+  font-family: "Courier New", sans-serif;
+  color: #fff;
+  background-color: #282c34;
+  .container {
+    width: 60%;
+    margin: 50px auto;
+    text-align: center;
+  }
+}
