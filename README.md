@@ -1,3 +1,7 @@
+# ColorApp
+
+<img width="999" alt="Zrzut ekranu 2023-04-4 o 20 21 06" src="https://user-images.githubusercontent.com/124681952/229883256-ecbe7857-94b7-491a-bcc9-459efeecdfa8.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
