@@ -93,8 +93,6 @@ const App = () => {
       return conditionR && conditionG && conditionB && conditionS;
     });
 
-  console.log(readyData);
-
   useEffect(() => {
     storeData(data.filter(({ isAddedByUser }) => isAddedByUser));
   }, [data]);
