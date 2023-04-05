@@ -13,9 +13,6 @@ $border-color: #fff;
     font-size: 2.6rem;
     outline: none;
   }
-  input::placeholder {
-    color: inherit;
-  }
   button {
     width: 10%;
     color: inherit;
@@ -23,8 +20,8 @@ $border-color: #fff;
     border: 1px solid $border-color;
     font-size: 2.6rem;
     cursor: pointer;
-  }
-  button:disabled {
-    cursor: not-allowed;
+    &:disabled {
+      cursor: not-allowed;
+    }
   }
 }
